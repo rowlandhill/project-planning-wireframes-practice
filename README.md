@@ -14,3 +14,8 @@ For your first project, you will be making an in-browser Tic Tac Toe game that c
 On your own, draft up a set of sketches to start from as you begin to design your app's front end; you should have at least one sketch for what the site looks like on a mobile device and one for what the site loks like on a laptop. These sketches should be lightweight and rough so that you can easily iterate on them if you decide to add or remove features.
 
 **The final version of your wireframes will need to be submitted along with the rest of your project at the end of the unit.**
+
+## [License](LICENSE)
+
+Source code distributed under the MIT license. Text and other assets copyright
+General Assembly, Inc., all rights reserved.
